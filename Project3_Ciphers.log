@@ -1,0 +1,10 @@
+﻿  ciphers.cpp
+c:\users\eoins\eecs 183\project3\ciphers.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\eoins\eecs 183\project3\ciphers.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\eoins\eecs 183\project3\ciphers.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\eoins\eecs 183\project3\ciphers.cpp(122): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\eoins\eecs 183\project3\ciphers.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\eoins\eecs 183\project3\ciphers.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\eoins\eecs 183\project3\ciphers.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\eoins\eecs 183\project3\ciphers.cpp(220): warning C4018: '<': signed/unsigned mismatch
+  Project3_Ciphers.vcxproj -> C:\Users\eoins\EECS 183\project3\Project3_Ciphers\Project3_Ciphers\Debug\Project3_Ciphers.exe
